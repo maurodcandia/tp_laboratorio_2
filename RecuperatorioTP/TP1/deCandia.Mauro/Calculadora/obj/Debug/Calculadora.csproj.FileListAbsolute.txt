@@ -55,3 +55,6 @@ C:\Users\Mauro\Desktop\RecuperatoriosTP\deCandia.Mauro\deCandia.Mauro\Calculador
 C:\Users\Mauro\Desktop\RecuperatoriosTP\deCandia.Mauro\deCandia.Mauro\Calculadora\obj\Debug\Calculadora.formCalculadora.resources
 C:\Users\Mauro\Desktop\RecuperatoriosTP\deCandia.Mauro\deCandia.Mauro\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
 C:\Users\Mauro\Desktop\RecuperatoriosTP\deCandia.Mauro\deCandia.Mauro\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\Mauro\Desktop\RecuperatoriosTP\TP1\deCandia.Mauro\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Mauro\Desktop\RecuperatoriosTP\TP1\deCandia.Mauro\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Mauro\Desktop\RecuperatoriosTP\TP1\deCandia.Mauro\Calculadora\obj\Debug\Calculadora.pdb
